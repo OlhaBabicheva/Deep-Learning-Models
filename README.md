@@ -4,3 +4,5 @@
 - [CNN](https://github.com/OlhaBabicheva/Deep-Learning-Models/blob/main/Basic-Models/cnn_nn.py)
 - [RNN](https://github.com/OlhaBabicheva/Deep-Learning-Models/blob/main/Basic-Models/rnn_nn.py)
 - [Bidirectional LSTM (BLSTM)](https://github.com/OlhaBabicheva/Deep-Learning-Models/blob/main/Basic-Models/blstm_nn.py)
+### Computer Vision
+- [VGG](https://github.com/OlhaBabicheva/Deep-Learning-Models/blob/main/Computer-Vision-Models/vgg.py)
